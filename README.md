@@ -1,2 +1,5 @@
-# tell-dont-ask
-Exemplos e práticas do princípio
+# Tell, Don't Ask
+
+## Definição
+
+Diz o que devo fazer e não peça por informações.
